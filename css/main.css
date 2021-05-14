@@ -188,7 +188,7 @@ iframe {
   display: block;
   font-family: Montserrat-ExtraBold;
   font-size: 24px;
-  color: #f3f3f3;
+  color: #8000ff;
   line-height: 1.2;
   text-align: center;
   padding-bottom: 0;
@@ -307,7 +307,7 @@ textarea.input1 + .shadow-input1 {
 }
 
 .contact1-form-btn:hover {
-  background: #f3f3f3;
+  background: #8000ff;
 }
 
 .contact1-form-btn:hover i {
