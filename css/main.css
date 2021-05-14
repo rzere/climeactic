@@ -134,10 +134,10 @@ iframe {
   padding: 15px;
 
   background: #009bff;
-  background: -webkit-linear-gradient(top, #5139B3, #a100af);
-  background: -o-linear-gradient(top, #5139B3, #a100af);
-  background: -moz-linear-gradient(top, #5139B3, #a100af);
-  background: linear-gradient(top, #5139B3, #a100af);
+  background: -webkit-linear-gradient(top, #8000ff, #a100af);
+  background: -o-linear-gradient(top, #8000ff, #a100af);
+  background: -moz-linear-gradient(top, #8000ff, #a100af);
+  background: linear-gradient(top, #8000ff, #a100af);
 
   display: -webkit-box;
   display: -webkit-flex;
